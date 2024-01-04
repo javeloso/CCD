@@ -1,18 +1,39 @@
-## ORIGEN
+<?xml version="1.0" encoding="UTF-8"?>
+<esei>
+    <asignatura nombre="DAI">
+        <profesor>Jato</profesor>
+        <profesor>Señora</profesor>
+    </asignatura>
+    <asignatura nombre="TSW">
+        <profesor>Dani</profesor>
+    </asignatura>
+    <asignatura nombre="SI">
+        <profesor>Moreno</profesor>
+    </asignatura>
+    <asignatura nombre="IU">
+        <profesor>Rodeiro</profesor>
+    </asignatura>
+    <asignatura nombre="LC">
+        <profesor>Vilares</profesor>
+    </asignatura>
+    <alumnos>
+        <alumno nombre="alumno1">
+            <asignatura nota="7.0">DAI</asignatura>
+            <asignatura nota="8.0">TSW</asignatura>
+            <asignatura nota="4.0">SI</asignatura>
+            <asignatura nota="6.0">IU</asignatura>
+            <asignatura nota="2.0">LC</asignatura>
+        </alumno>
+        <alumno nombre="alumno2">
+            <asignatura nota="6.0">DAI</asignatura>
+            <asignatura nota="7.0">TSW</asignatura>
+            <asignatura nota="3.0">SI</asignatura>
+            <asignatura nota="1.0">LC</asignatura>
+        </alumno>
+	<alumno nombre="alumno3">
+            <asignatura nota="4.0">LC</asignatura>
+        </alumno>
+    </alumnos>
+</esei>
 
-Era el año de Ucrania. No se podía esperar otra cosa (¡”Esto es Eurovisión, amigos”!). El documental The Secret Story of Eurovision de la BBC se adentra en los factores geopolíticos que acompañan la historia de más de 60 años del concurso. Nació a finales de los 50 como un festival que debía ayudar en el proceso de integración (macro-económica) europea. Pronto, durante la Guerra Fría, se convertiría en una parte más de la guerra cultural contra los países del Este. Sus certámenes intentaban mostrar la modernidad y la innovación musical de las sociedades capitalistas al oeste del Muro de Berlín y, con ello, seducir a los jóvenes de los países comunistas. Era el Hollywood musical de Europa. Tal fue su éxito que, según el documental, los países alineados con la URSS llegarían a intentar, sin éxito, contraprogramar la cita, impulsando su propio festival. 
-
-Tenemos la UIR (Union internacional de Radiodifusión), en 1925, durante el periodo entreguerras, pero en la WWII los alemanes la controlaban, entonces la gran mayoría de países miembros la abandonaría, en 1946 se fundó la OIR (Organización internacional de Radiodifusión) gestionada por la URSS y los Estados Satélites, pero el descontento que había en europa occidental, hizo que algunos países como Países Bajos, Bélgica o Italia también abandonasen la OIR y fundasen en 1950 la UER (Unión Europea de Radiodifusión).
-
-En 1956 se celebró el primer festival de la canción de Eurovisión.
-
-Los miembros de la OIR no fueron menos y celebraron su festival de Intervision en 1977, pero debido a problemas políticos y sociales la última edición fue la de 1980.
-
-Como curiosidad el Festival de Intervisión celebró una quinta edición en 2008, entre países de Asia central, Rusia y China.
-
-En 1993 la UER absorbió a la OIR
-
-
-Fenómeno Eurovisión:
-
-El festival ha cambiado mucho desde entonces, y ha influido en la creación y celebración de otros certámenes musicales, como el festival Internacional de la Canción de Sopot en Polonia, el Festival de la Canción de Eurovisión Junior, el Melodi Grand Prix, o el reciente American song contest, además de la gran cantidad de festivales regionales que sirven para elegir el representante de cada país para el festival de eurovisión como el melodifestivalen en Suecia, o el reciente Benidorm Fest en España 
+		
